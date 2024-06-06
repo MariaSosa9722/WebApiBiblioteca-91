@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fO6ufEky07KaqJl+WPqi3MK0DAek4qQIx04L1zww5oXhSORfjCpCacwWH445JMvXwq0cd9ueQmJrHD+NFYVDQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alejandro\\source\\repos\\WepApi91\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandro\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
